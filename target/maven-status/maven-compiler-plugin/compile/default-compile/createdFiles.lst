@@ -1,0 +1,4 @@
+pages\ProductsPage.class
+pages\SingleProductPage.class
+pages\CommonPage.class
+pages\LoginPage.class

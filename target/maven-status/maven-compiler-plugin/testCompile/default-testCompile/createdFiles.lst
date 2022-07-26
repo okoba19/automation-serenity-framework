@@ -1,0 +1,8 @@
+steps\LoginSteps.class
+definitions\ProductsPageDefinitions.class
+steps\CommonSteps.class
+definitions\SingleProductPageDefinitions.class
+definitions\LoginDefinitions.class
+AutomationTestsRunner.class
+steps\ProductsPageSteps.class
+steps\SingleProductPageSteps.class
